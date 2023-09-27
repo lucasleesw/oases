@@ -1,7 +1,6 @@
-# Automated Tensor Model Parallelism with Overlapped Communication for Efficient Foundation Model Training
+# Automated Tensor Model Parallelism with Overlapped Communication for Efficient Large-scale Model Training on Commodity Servers
 
-This repository is the official implementation of paper **Automated Tensor Model Parallelism with Overlapped Communication for Efficient Foundation Model Training**. 
-In this paper, we present **Oases**, an operation overlapping and automated model partitioning approach to accelerate tensor model parallelism (TMP) training of foundation models. 
+
 
 Oases features two novel modules:
 -  **A fine-grained overlapping TMP training schedule**, which overlaps communication with computation whenever feasible, thereby accelerating TMP training.

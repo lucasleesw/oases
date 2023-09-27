@@ -41,7 +41,6 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 # Fields marked as "Optional" may be commented out.
 
 install_requires = [
-    'torch==1.10.0',
     'python-dateutil>=2.1',
     'psutil',
     'tensorboardX>=1.8',
